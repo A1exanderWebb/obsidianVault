@@ -64,3 +64,4 @@ creature: Beast of the Cave
 ```statblock
 creature: Beast of the Sky
 ```
+![[Beast of the Cave.webp]]
