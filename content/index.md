@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Alex's Website
 ---
+I do not like goolge drive very much, so I am moving all of my information on Dnd to my own hard drive.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Currently Available:
+[[Ranger]]
