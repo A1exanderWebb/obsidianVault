@@ -26,7 +26,7 @@ You learn the following spells at the ranger levels noted in the table below. Th
 
 ### Primal Companion:
 *3rd-level Beast Master Feature*
-At 3rd level, you gain a beast companion with markings that indicate its primal origin. It is friendly to you and obeys your commands. You choose the form it takes, selecting one of the stat blocks at the end of this document: [[Beast of The Cave]], [[Beast of The Land]], [[Beast of The Sea]], or [[Beast of The Sky]]. These stat blocks use your proficiency bonus (PB) in several places.
+At 3rd level, you gain a beast companion with markings that indicate its primal origin. It is friendly to you and obeys your commands. You choose the form it takes, selecting one of the stat blocks at the end of this document: [[Beast-of-the-Cave.png|Beast of the Cave]], [[Beast-of-the-Land.png|Beast of the Land]], [[Beast-of-the-Sea.png|Beast of the Sea]], or [[Beast-of-the-Sky.png|Beast of the Sky]]. These stat blocks use your proficiency bonus (PB) in several places.
 In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the Dodge action, unless you use a bonus action to command it to take an action from its stat block, or another action. If you take the Attack action, you can sacrifice one of your attacks to command the primal beast to take the Attack action. If you are incapacitated, your beast can take any action it chooses.
 If your Beast is reduced to 0 hit points, it makes death saving throws like a player character would. If the Beast dies, you can perform a special 1-hour ritual, which can be during a short or long rest, that returns your Primal Beast to life with 1 hit point. As part of this ritual, the Beast can expend hit dice to regain additional hit points. It can also take a new form, choosing a new Primal Beast stat block and appearance.
 
@@ -48,20 +48,6 @@ The bond with your beast has reached its apex. Starting at 15th level, when you 
 Additionally, if you damage a creature on your turn, your beast has advantage on all attacks it makes against that creature on that turn.
 
 ## Primal Companions:
-
-```statblock
-creature: Beast of the Land
-```
-
-```statblock
-creature: Beast of the Sea
-```
-
-```statblock
-creature: Beast of the Cave
-```
-
-```statblock
-creature: Beast of the Sky
-```
-![[Beast of the Cave.webp]]
+![[Beast-of-the-Land.png]]
+![[Beast-of-the-Sky.png]]
+ ![[Beast of the Cave.png]]
